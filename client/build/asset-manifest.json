@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9da82559.chunk.css",
+    "main.js": "/static/js/main.d6e2a9f1.chunk.js",
+    "main.js.map": "/static/js/main.d6e2a9f1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.03887cff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.03887cff.js.map",
+    "static/js/2.16a15f6f.chunk.js": "/static/js/2.16a15f6f.chunk.js",
+    "static/js/2.16a15f6f.chunk.js.map": "/static/js/2.16a15f6f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9da82559.chunk.css.map": "/static/css/main.9da82559.chunk.css.map",
+    "static/js/2.16a15f6f.chunk.js.LICENSE.txt": "/static/js/2.16a15f6f.chunk.js.LICENSE.txt",
+    "static/media/Mastercard_logo.575c52d2.jpg": "/static/media/Mastercard_logo.575c52d2.jpg",
+    "static/media/bkg2.e6452403.jpg": "/static/media/bkg2.e6452403.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03887cff.js",
+    "static/js/2.16a15f6f.chunk.js",
+    "static/css/main.9da82559.chunk.css",
+    "static/js/main.d6e2a9f1.chunk.js"
+  ]
+}
